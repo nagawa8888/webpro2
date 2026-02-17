@@ -1,2 +1,1 @@
-# webpro2
-bedrockテスト用
+# さらに更新
